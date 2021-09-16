@@ -1,0 +1,29 @@
+/*body styles*/
+#body{
+    background-color: rgb(32, 128, 131);
+    width:80%;
+    padding: 20px;
+    margin: auto;     
+}
+/*root styles*/
+#root{
+    background-color: rgb(136, 220, 231);
+    padding-bottom: 3cm;
+    border:solid 1px black;
+     
+}
+/*border at bottom of page*/
+#footer{
+    margin-top:3cm;
+    border-bottom:solid 3px black;
+    border-radius: 6%;   
+}
+#adminTable{
+    border:solid 1.5px black;
+}
+/*custom css to position the about page card*/
+#aboutCard{
+    align-items: center;
+    margin-left: 10cm;   
+}
+
